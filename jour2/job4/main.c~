@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "sum_array.h"
+
+int main()
+{
+
+  int a[10];
+  int n;
+  int result = 0;
+  
+ 
+    
+
+  return 0;
+}
